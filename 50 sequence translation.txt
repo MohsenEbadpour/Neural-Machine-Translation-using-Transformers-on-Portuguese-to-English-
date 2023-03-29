@@ -1,0 +1,250 @@
+
+Test Sample #1 <==========================
+Input:         : depois , podem fazer-se e testar-se previsões .
+Prediction     : then you can do it and test for predictions .
+Ground truth   : then , predictions can be made and tested .
+
+Test Sample #2 <==========================
+Input:         : forçou a parar múltiplos laboratórios que ofereciam testes brca .
+Prediction     : it ' s forced to stop multiple laboratories that are starting to test .
+Ground truth   : it had forced multiple labs that were offering brca testing to stop .
+
+Test Sample #3 <==========================
+Input:         : as formigas são um exemplo clássico ; as operárias trabalham para as rainhas e vice-versa .
+Prediction     : anasiagia is a classic , operating power for the queens and viced .
+Ground truth   : ants are a classic example ; workers work for queens and queens work for workers .
+
+Test Sample #4 <==========================
+Input:         : uma em cada cem crianças no mundo nascem com uma doença cardíaca .
+Prediction     : one in every 100 children in the world are born with a heart disease .
+Ground truth   : one of every hundred children born worldwide has some kind of heart disease .
+
+Test Sample #5 <==========================
+Input:         : neste momento da sua vida , ela está a sofrer de sida no seu expoente máximo e tinha pneumonia .
+Prediction     : right now of his life , she ' s suffering from hiv in her exagon and had maximum pneony .
+Ground truth   : at this point in her life , she 's suffering with full-blown aids and had pneumonia .
+
+Test Sample #6 <==========================
+Input:         : onde estão as redes económicas ?
+Prediction     : where are economic networks ?
+Ground truth   : where are economic networks ?
+
+Test Sample #7 <==========================
+Input:         : ( aplausos )
+Prediction     : ( applause )
+Ground truth   : ( applause )
+
+Test Sample #8 <==========================
+Input:         : eu usei os contentores de transporte , e também os alunos ajudaram-nos a fazer toda a mobília dos edifícios , para torná-los confortáveis​​ , dentro do orçamento do governo , mas também com a mesma a área da casa , mas muito mais confortável .
+Prediction     : i used shipping containers , and also the students helped us all mobilize our buildings , to make them comfortable , within the government budget , but also with the same house , but much more comfortable the house , but much more comfortable .
+Ground truth   : i used the shipping container and also the students helped us to make all the building furniture to make them comfortable , within the budget of the government but also the area of the house is exactly the same , but much more comfortable .
+
+Test Sample #9 <==========================
+Input:         : e , no entanto , a ironia é que a única maneira de podermos fazer qualquer coisa nova é dar um passo nessa direção .
+Prediction     : and yet the irony is that the only way we can do something new and give it a step in that direction .
+Ground truth   : and yet , the irony is , the only way we can ever do anything new is to step into that space .
+
+Test Sample #10 <==========================
+Input:         : a luz nunca desaparece .
+Prediction     : light never disappears .
+Ground truth   : the light never goes out .
+
+Test Sample #11 <==========================
+Input:         : `` agora , `` '' tweets '' '' , quem está a `` '' tweetar '' '' ? ''
+Prediction     : now , what is the tweets going to tweet ?
+Ground truth   : now , tweets , who 's tweeting ?
+
+Test Sample #12 <==========================
+Input:         : no egito , por exemplo , 91 % das mulheres que vivem hoje no egito foram mutiladas sexualmente dessa forma .
+Prediction     : in egypt , for 111 percent of women who live today in egypt were sexually mutated from that way .
+Ground truth   : in egypt , for instance , 91 percent of all the females that live in egypt today have been sexually mutilated in that way .
+
+Test Sample #13 <==========================
+Input:         : por outro lado , os bebés de 15 meses ficavam a olhar para ela durante muito tempo caso ela agisse como se preferisse os brócolos , como se não percebessem a situação .
+Prediction     : on the other hand , babies , were able to look at it for a long time that she stands for as precrorised as the breeding breeders , as if they did n ' t understand the situation .
+Ground truth   : on the other hand , 15 month-olds would stare at her for a long time if she acted as if she liked the broccoli , like they could n't figure this out .
+
+Test Sample #14 <==========================
+Input:         : naquele momento , percebi quanta energia negativa é precisa para conservar aquele ódio dentro de nós .
+Prediction     : at that moment , i realized how much neglecing energy does it need to constituer hater in the moment of us .
+Ground truth   : in that instant , i realized how much negative energy it takes to hold that hatred inside of you .
+
+Test Sample #15 <==========================
+Input:         : e a discussão é : o que é que isso interessa .
+Prediction     : and discussion is : what that matters .
+Ground truth   : and the discussion is , who cares ? right ?
+
+Test Sample #16 <==========================
+Input:         : se escolhermos um lugar e formos cuidadosos , as coisas estarão sempre lá quando as procurarmos .
+Prediction     : if you pick a place and you go carefully , things will always look at it when you look for it .
+Ground truth   : if you designate a spot and you 're scrupulous about it , your things will always be there when you look for them .
+
+Test Sample #17 <==========================
+Input:         : é um museu muito popular agora , e criei um grande monumento para o governo .
+Prediction     : it ' s a very popular museum , and i ' ve created a great monument to government .
+Ground truth   : it 's a very popular museum now , and i created a big monument for the government .
+
+Test Sample #18 <==========================
+Input:         : é completamente irrelevante .
+Prediction     : it ' s completely vivant .
+Ground truth   : it 's completely irrelevant .
+
+Test Sample #19 <==========================
+Input:         : todos defenderam que a sua técnica era a melhor , mas nenhum deles tinha a certeza disso e admitiram-no .
+Prediction     : everyone challenged himself who had his technique was the best , but no one of them was perfect about it .
+Ground truth   : `` they all argued that , `` '' my technique is the best , '' '' but none of them actually knew , and they admitted that . ''
+
+Test Sample #20 <==========================
+Input:         : a partir daquele momento , comecei a pensar .
+Prediction     : from that moment , i started thinking .
+Ground truth   : at that moment , i started thinking .
+
+Test Sample #21 <==========================
+Input:         : mt : portanto , aqui temos a maré baixa e aqui a maré alta e no centro temos a lua .
+Prediction     : mt : so here , we have the lower tides and the high tides and the center is on the center there .
+Ground truth   : mt : so over here is low tide , and over here is high tide , and in the middle is the moon .
+
+Test Sample #22 <==========================
+Input:         : então , este jogo é muito simples .
+Prediction     : so this game is very simple .
+Ground truth   : beau lotto : so , this game is very simple .
+
+Test Sample #23 <==========================
+Input:         : então , propus a reconstrução . angariei , recolhi fundos .
+Prediction     : so i proposed rebuilding rebuilding it , rescquilurs .
+Ground truth   : so i proposed to rebuild . i raised — did fundraising .
+
+Test Sample #24 <==========================
+Input:         : o que nós - betty rapacholi , minha aluna , e eu - fizemos foi dar aos bebés dois pratos de comida : um prato com brócolos crus e um com bolachas deliciosas em forma de peixinho .
+Prediction     : what i ' ve got on raph photos , my algasa , and i did was we gave to the two - food dish babies : a bot tape with chetics and a wonderful junk kne bow in pyxy .
+Ground truth   : what we did — betty rapacholi , who was one of my students , and i — was actually to give the babies two bowls of food : one bowl of raw broccoli and one bowl of delicious goldfish crackers .
+
+Test Sample #25 <==========================
+Input:         : é algo que nos acontece sem o nosso consentimento .
+Prediction     : it ' s something that happens without our consent .
+Ground truth   : it 's something that happens to us without our consent .
+
+Test Sample #26 <==========================
+Input:         : ardemos de paixão .
+Prediction     : we take passion .
+Ground truth   : we burn with passion .
+
+Test Sample #27 <==========================
+Input:         : `` a mutilação genital é horrível , e desconhecida pelas mulheres americanas . mas , nalguns países , em muitos países , quando uma menina nasce , muito cedo na sua vida , os seus genitais são completamente removidos por um chamado `` '' cortador '' '' que , com uma lâmina de navalha , sem recurso à esterilização , corta as partes exteriores dos genitais femininos . ''
+Prediction     : ` ` magimization genaulfa is horrible , unfamiliar for american women , but in some countries , in many countries when a young girl in their life , very early in his life , their genitals are completely removed from a vicider , which a ga blade , no resourcedging , the non - octoral fantasy , the outside resourcedity of feminine bios . ' '
+Ground truth   : genital mutilation is horrible and not known by american women , but in some countries , many countries , when a child is born that 's a girl , very soon in her life , her genitals are completely cut away by a so-called cutter who has a razor blade and , in a non-sterilized way , they remove the exterior parts of a woman 's genitalia .
+
+Test Sample #28 <==========================
+Input:         : isto significa 20 % do orçamento , do orçamento relativo a cuidados de saúde do país .
+Prediction     : this means 20 percent of the budget of relawaluring health care in the country .
+Ground truth   : that 's 20 percent of the budget , of the healthcare budget of the country .
+
+Test Sample #29 <==========================
+Input:         : conheci-o num evento 46664 .
+Prediction     : i met him on a 4646 .
+Ground truth   : i met him at a 46664 event .
+
+Test Sample #30 <==========================
+Input:         : deixem-me mostrar-vos o que quero dizer .
+Prediction     : let me show you what i mean .
+Ground truth   : let me show you what i mean .
+
+Test Sample #31 <==========================
+Input:         : acho que este é o problema .
+Prediction     : i think this is the problem .
+Ground truth   : i think this is a problem .
+
+Test Sample #32 <==========================
+Input:         : mt : oh , 365 , o número de dias num ano , o número de dias entre cada aniversário .
+Prediction     : mt : oh , 365 , the number of days a year , the number of days between each birthday .
+Ground truth   : mt : oh , 365 , the number of days in a year , the number of days between each birthday .
+
+Test Sample #33 <==========================
+Input:         : como disse peter lavine , o ser humano é um ser único habilitado com uma capacidade instintiva para curar e com o espírito intelectual para manter esta capacidade inata .
+Prediction     : as petervier , the human being is a single habited with an instle capacity to cure and intellectual spirit to keep this inexportable capacity .
+Ground truth   : as peter levine has said , the human animal is a unique being endowed with an instinctual capacity to heal and the intellectual spirit to harness this innate capacity .
+
+Test Sample #34 <==========================
+Input:         : o cortisol é tóxico e tolda-nos o pensamento .
+Prediction     : the collated and foolic and toasts you thought .
+Ground truth   : cortisol is toxic , and it causes cloudy thinking .
+
+Test Sample #35 <==========================
+Input:         : e às vezes , em casos mais extremos , mas não muito raros , eles costuram o orifício para que a menina possa apenas urinar ou menstruar .
+Prediction     : and sometimes , in more extremes , but not very rare , they claim the hidden animal so that girl can just apparel or mer .
+Ground truth   : and sometimes , in more extreme cases but not very rare cases , they sew the orifice up so the girl can just urinate or menstruate .
+
+Test Sample #36 <==========================
+Input:         : há sempre vestígios — não há nenhum crime perfeito .
+Prediction     : there ' s always vestigsizers — there ' s no perfect crime .
+Ground truth   : there are always traces — no such thing as a perfect crime .
+
+Test Sample #37 <==========================
+Input:         : `` `` '' vai procurá-la atrás das montanhas . ''
+Prediction     : ` ` ` ` ' ' go for mountains behind mountains . ' '
+Ground truth   : go and look behind the mountains .
+
+Test Sample #38 <==========================
+Input:         : ambos , adam e oz , pouparam uma hora .
+Prediction     : both , adam , adam , saved an hour .
+Ground truth   : adam and oz both saved an hour of time .
+
+Test Sample #39 <==========================
+Input:         : claro que não ! têm que treinar 24/7 .
+Prediction     : of course , you do n ' t have to train 24 / 7 .
+Ground truth   : of course not ! you 've got to practice 24/7 .
+
+Test Sample #40 <==========================
+Input:         : logo a seguir , encontrei outra foto minha .
+Prediction     : so i found another photo .
+Ground truth   : soon after that , i found in another picture that she had , a picture of me .
+
+Test Sample #41 <==========================
+Input:         : portanto , pensei , temos a fórmula pronta .
+Prediction     : so i thought , we have the formulated formulated .
+Ground truth   : so i was like , okay , so we 've got the formula ready .
+
+Test Sample #42 <==========================
+Input:         : parafraseando chavez , uma vez iniciada uma mudança social , esta não pode ser revertida .
+Prediction     : to paraphrase key , an infaith ' s unfineding change , this ca n ' t be revered .
+Ground truth   : to paraphrase chavez , once social change begins , it can not be reversed .
+
+Test Sample #43 <==========================
+Input:         : neste vídeo , podemos ver como um cateter muito fino leva a bobina até ao coração .
+Prediction     : in this video , you can see how a very gaternie de ladder light is to bob .
+Ground truth   : in this video , we can see how a very tiny catheter takes the coil to the heart .
+
+Test Sample #44 <==========================
+Input:         : e já agora , aquele café , aquele maravilhoso café que tomaram lá em baixo , na verdade imita o efeito dos neurotransmissores dos bebés .
+Prediction     : and by the way , that wonderful coffee , that cup you took there down , in fact imited the neurotransmitters of babies .
+Ground truth   : and by the way , that coffee , that wonderful coffee you 've been drinking downstairs , actually mimics the effect of those baby neurotransmitters .
+
+Test Sample #45 <==========================
+Input:         : eles têm dinheiro e poder .
+Prediction     : they have money and power .
+Ground truth   : they have money and power .
+
+Test Sample #46 <==========================
+Input:         : eu não sou o meu pai .
+Prediction     : i ' m not my dad .
+Ground truth   : i am not my father .
+
+Test Sample #47 <==========================
+Input:         : e isso afeta-nos a todos .
+Prediction     : and that affects us all .
+Ground truth   : and that affects all of us .
+
+Test Sample #48 <==========================
+Input:         : a este respeito , para membros da sociedade , não há maior honra ou privilégio do que facilitar o processo de cura de alguém , testemunhar , de estender uma mão , de partilhar o fardo do sofrimento de alguém , e de manter a esperança da sua recuperação .
+Prediction     : the respect for society ' s members , there ' s no greater privilege or privilege of what makes it easier to make a cure , to witness one hand , sharing the burden of suffering from the suffering , and to keep the hope of saving their recovery .
+Ground truth   : in this respect , for members of society , there is no greater honor or privilege than facilitating that process of healing for someone , to bear witness , to reach out a hand , to share the burden of someone 's suffering , and to hold the hope for their recovery .
+
+Test Sample #49 <==========================
+Input:         : sabemos mais do que eles ?
+Prediction     : do we know more than they ?
+Ground truth   : do we know better than them ?
+
+Test Sample #50 <==========================
+Input:         : ( risos ) parece-me que todos vocês são tocs , astrofísicos e ultramaratonistas .
+Prediction     : ( laughter ) i think all of you are to be trishas , ultramadefighs .
+Ground truth   : ( laughter ) you 're all cfo , astrophysicists , ultra-marathoners , it turns out .
